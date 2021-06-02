@@ -1,0 +1,57 @@
+.top-part{
+font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #333;
+  text-align:center;
+  border-bottom: 1px solid black;
+}
+
+.main-part{
+    text-align: center;
+    position:relative;
+  
+}
+.chart{
+    margin-top:1%;
+    margin-left:20%;
+}
+.Arror{
+    font-size:100px;
+    text-align:center;
+
+}
+
+.second-part{
+    margin-left:500px;
+}
+#h_year{
+    
+    
+}
+.second_second{
+    margin-right:23%;
+}
+.top-body{
+    width:200px;
+    background-color: blue;
+}
+.change{
+    margin-left:20%;
+}
+.chart1{
+    margin-left:20%;
+}
+.chart{
+    margin-top:50px;
+    padding-left:150px
+}
+.second_chart{
+    margin-top:1%;
+}
+.sending{
+    margin-top:5%;
+    text-align: center;
+    margin-left:10%;
+
+}
